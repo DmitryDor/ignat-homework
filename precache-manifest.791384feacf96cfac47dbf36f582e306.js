@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3af7ac9134d9d1f61c07d81461698c22",
+    "revision": "51f7a66341236ad0ac4c91f36ca0cc0f",
     "url": "/ignat-homework/index.html"
   },
   {
-    "revision": "fcee8291a6c03bd4f479",
+    "revision": "d2b357d73ffcf88fc260",
     "url": "/ignat-homework/static/css/main.9c639fbb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ignat-homework/static/js/2.21d57a40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fcee8291a6c03bd4f479",
-    "url": "/ignat-homework/static/js/main.226fe9a9.chunk.js"
+    "revision": "d2b357d73ffcf88fc260",
+    "url": "/ignat-homework/static/js/main.4659da6f.chunk.js"
   },
   {
     "revision": "71139a25fb8931d032a2",
