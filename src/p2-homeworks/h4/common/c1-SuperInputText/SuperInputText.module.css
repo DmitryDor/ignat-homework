@@ -1,0 +1,26 @@
+.superInput {
+    background-color: whitesmoke;
+    border: 2px solid #eee;
+    box-shadow: 5px -4px 15px 7px rgba(0,0,0,0.06);
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+}
+.superInput:hover{
+    background-color: white;
+    /*border: 3px solid #eee;*/
+}
+
+
+.errorInput {
+    background-color: red;
+    border: 3px solid green;
+    box-shadow: 5px -4px 15px 7px rgba(0,0,0,0.06);
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+}
+
+.error {
+    color: red;
+}

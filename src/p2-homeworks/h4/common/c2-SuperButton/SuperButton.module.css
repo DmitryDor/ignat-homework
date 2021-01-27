@@ -1,0 +1,17 @@
+
+.default {
+    margin: 10px;
+    border-radius: 5px;
+    height: 30px;
+    width: 55px;
+    background-color: floralwhite;
+}
+
+
+.red {
+    margin: 10px;
+    border-radius: 5px;
+    height: 30px;
+    width: 55px;
+    background-color: red;
+}
